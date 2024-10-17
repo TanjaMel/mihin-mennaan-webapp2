@@ -19,6 +19,8 @@ const firebaseConfig = {
 
 };
 
+console.log('tanja')
+
 const firebaseApp = initializeApp(firebaseConfig);
 // Initialize Firebase
 
